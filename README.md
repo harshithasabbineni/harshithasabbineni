@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-# 👋 Hi, I’m **YOUR NAME**
+# 👋 Hi, I’m **Harshitha Sabbineni**
 
 ### 🚀 Software Developer | Open-Source Enthusiast | Lifelong Learner  
 
 💡 I love building tools, automating workflows, and turning ideas into real, useful products.  
-🌱 Currently learning: **YOUR CURRENT LEARNING**  
-🔥 Focused on: **YOUR FOCUS AREA**  
+🌱 Currently learning: **Angular**  
+🔥 Focused on: **Angular**  
 
 ---
 
