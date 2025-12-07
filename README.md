@@ -29,7 +29,10 @@
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshithasabbineni&theme=highcontrast)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical)
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical">
 
