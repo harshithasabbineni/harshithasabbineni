@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 ## 🐍 Snake Animation
 <div>
-https://github.com/Platane/snk.git
+https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg
 </div>
 ---
 ## 🏆 GitHub Trophies
