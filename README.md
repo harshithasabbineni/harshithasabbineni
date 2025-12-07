@@ -31,8 +31,6 @@
 #Daily Dev Card
  <div>
    
-   https://api.daily.dev/devcards/harshithasabbineni.png
-<img src="https://api.daily.dev/devcards/harshithasabbineni.png" width="400" alt="Daily Dev Card"/>
 
 </div>
 
