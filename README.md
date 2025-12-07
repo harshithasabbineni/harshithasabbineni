@@ -37,14 +37,12 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 </div>
 
-# 📊 GitHub Stats
-https://github-readme-stats.vercel.app/api?username=harshithasabbineni&show_icons=true&theme=radical&hide_border=true
-
----
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshithasabbineni&show_icons=true&theme=radical&hide_border=true)
+-------
 
 ## 🔤 Top Languages
-<!-- Placeholder image -->
-<img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/top-languages-placeholder.png" width="400" alt="Top Languages"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical&hide_border=true)
 
 ---
 
