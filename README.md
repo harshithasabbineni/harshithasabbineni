@@ -28,11 +28,12 @@
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933c30cf33145208b926893?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
-#Daily Dev Card
+------
  <div>
-   ![Profile Image](https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshitha.png)
+ 
+https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshithasabbineni.png
 
-  <img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshitha.png" width="200" alt="Profile Image"/>
+ <img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshithasabbineni.png" width="400" alt="Daily Dev Card"/>
 
 </div>
 
