@@ -37,21 +37,24 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 </div>
 
-
-## 📊 GitHub Stats
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=harshithasabbineni&theme=highcontrast)
-
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical)
-
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical">
-
-</div>
+# 📊 GitHub Stats
+<img src="https://github-readme-stats-git-master-harshithass-projects.vercel.app/api?username=harshithasabbineni&show_icons=true&theme=radical" width="400" alt="GitHub Stats"/>
 
 ---
+
+## 🔤 Top Languages
+<!-- Placeholder image -->
+<img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/top-languages-placeholder.png" width="400" alt="Top Languages"/>
+
+---
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 ## 🔥 Contribution Graph
 <div align="center">
