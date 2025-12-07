@@ -38,7 +38,7 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 </div>
 
 # 📊 GitHub Stats
-<img src="https://github-readme-stats-git-master-harshithass-projects.vercel.app/api?username=harshithasabbineni&show_icons=true&theme=radical" width="400" alt="GitHub Stats"/>
+https://github-readme-stats.vercel.app/api?username=harshithasabbineni&show_icons=true&theme=radical&hide_border=true
 
 ---
 
@@ -59,7 +59,11 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 ## 🐍 Snake Animation
 <div>
-https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg
+
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" width="400" alt="Snake Animation"/>
+
+
 </div>
 ---
 ## 🏆 GitHub Trophies
