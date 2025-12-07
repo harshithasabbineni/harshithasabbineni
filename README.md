@@ -48,14 +48,6 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 ---
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
-https://i.imgflip.com/65efzo.gif
 ## 🔥 Contribution Graph
 <div align="center">
 
@@ -63,6 +55,11 @@ https://i.imgflip.com/65efzo.gif
 
 
 </div>
+
+
+## 🐍 Snake Animation
+<img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/snake.gif" width="400" alt="Snake Animation"/>
+
 
 ---
 ## 🏆 GitHub Trophies
