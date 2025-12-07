@@ -29,8 +29,9 @@
 <div align="center">
   
 ![GitHub Streak](https://streak-stats.demolab.com?user=harshithasabbineni&theme=highcontrast)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical)
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical">
 
 </div>
 
@@ -38,8 +39,6 @@
 
 ## 🔥 Contribution Graph
 <div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=harshithasabbineni&theme=highcontrast)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshithasabbineni&theme=react-dark)
 
