@@ -30,7 +30,9 @@
 
 #Daily Dev Card
  <div>
-   
+   ![Profile Image](https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshitha.png)
+
+  <img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshitha.png" width="200" alt="Profile Image"/>
 
 </div>
 
