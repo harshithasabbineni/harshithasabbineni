@@ -28,10 +28,15 @@
   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933c30cf33145208b926893?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
-<div>
-  https://api.daily.dev/devcards/harshithasabbineni.png
+#Daily Dev Card
+ <div>
+   
+   https://api.daily.dev/devcards/harshithasabbineni.png
+<img src="https://api.daily.dev/devcards/harshithasabbineni.png" width="400" alt="Daily Dev Card"/>
 
 </div>
+
+
 ## 📊 GitHub Stats
 <div align="center">
   
