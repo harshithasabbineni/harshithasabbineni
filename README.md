@@ -58,9 +58,9 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 
 ## 🐍 Snake Animation
-<img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/snake.gif" width="400" alt="Snake Animation"/>
-
-
+<div>
+https://github.com/Platane/snk.git
+</div>
 ---
 ## 🏆 GitHub Trophies
 <div>
