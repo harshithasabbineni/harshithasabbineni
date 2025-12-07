@@ -24,7 +24,14 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?logo=visual-studio-code&logoColor=white)
 
 ---
+<div>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6933c30cf33145208b926893?variant=dark" alt="roadmap.sh"/></a>
+</div>
 
+<div>
+  https://api.daily.dev/devcards/harshithasabbineni.png
+
+</div>
 ## 📊 GitHub Stats
 <div align="center">
   
