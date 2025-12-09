@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshitha</h1>
+<h1 align="center"> I'm Harshitha</h1>
 <h3 align="center">A passionate Frontend & Angular Developer from India</h3>
 
 ---
