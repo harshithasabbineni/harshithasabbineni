@@ -1,5 +1,5 @@
 <p align="center">
- <img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/logo.png">
+ <img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/logo.png" width=800>
 
 </p>
 
