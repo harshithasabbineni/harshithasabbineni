@@ -51,17 +51,12 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithasabbineni&theme=default" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshithasabbineni&theme=default" />
 
-
-
 ----------------
 
 ## 🏆 Certifications
 
 <img src="certificates/postmancertificate.png" width="300">
-
 -----------------------------
-
-
 ## 🏅 Hackathon Achievements
 
 <p align="left">
@@ -70,7 +65,6 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
   <img src="myacheivements/hackathonsticker3.png" width="110">
    <img src="myacheivements/hackathonsticker4.png" width="110">
 </p>
-
 --------------------------------
 
 ## 🔥 Contribution Graph
@@ -78,17 +72,12 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshithasabbineni&theme=react-dark)
 
-
 </div>
-
+-------------
 
 ## 🐍 Snake Animation
 <div>
-
-
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" width="400" alt="Snake Animation"/>
-
-
 </div>
 ---
 ## 🏆 GitHub Trophies
