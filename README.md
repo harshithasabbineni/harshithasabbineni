@@ -42,16 +42,21 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 </div>
 
-## 📊 GitHub Stats
-![GitHub Stats](https://YOUR_VERCEL_DOMAIN/api?username=harshithasabbineni&show_icons=true&theme=radical&hide_border=true&count_private=true)
--------
-
-## 🔤 Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshithasabbineni&layout=compact&theme=radical&hide_border=true" alt="Harshitha's Top Languages" />
-</p>
 
 ---
+## 📊 GitHub Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=harshithasabbineni&theme=default" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshithasabbineni&theme=default" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshithasabbineni&theme=default" />
+
+
+
+----------------
+
+
+
 
 
 ## 🏆 Certifications
