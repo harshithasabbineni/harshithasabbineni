@@ -57,7 +57,7 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 ## 🏆 Certifications
 
-<img src="certificates/postmancertificate.png" width="450">
+<img src="certificates/postmancertificate.png" width="300">
 
 -----------------------------
 
