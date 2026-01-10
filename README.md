@@ -53,6 +53,13 @@ https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/har
 
 ---
 
+
+## 🏆 Certifications
+
+| Certificate | View |
+|-------------|------|
+| Postman API Student Expert | [View PDF](certificates/postmancertificate.pdf) |
+
 ## 🔥 Contribution Graph
 <div align="center">
 
