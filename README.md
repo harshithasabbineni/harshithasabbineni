@@ -34,13 +34,7 @@
 </div>
 
 ------
- <div>
- 
-https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshithasabbineni.png
-
- <img src="https://raw.githubusercontent.com/harshithasabbineni/harshithasabbineni/main/harshithasabbineni.png" width="400" alt="Daily Dev Card"/>
-
-</div>
+ <a href="https://app.daily.dev/harshithasabbineni"><img src="https://api.daily.dev/devcards/v2/njW6ufbuTSIWBYFHqwSYr.png?type=default&r=exa" width="356" alt="Harshitha Sabbineni's Dev Card"/></a>
 
 
 ---
