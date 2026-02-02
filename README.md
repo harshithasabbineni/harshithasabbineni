@@ -61,9 +61,16 @@
   <img src="myacheivements/onlinehackathonsticker2.png" width="110">
   <img src="myacheivements/hackathonsticker3.png" width="110">
   <img src="myacheivements/hackathonsticker4.png" width="110">
-  <img src="myacheivements/January%202026%20Top%20Reader%20in%20RxJS.png" alt="January 2026 Top Reader in RxJS" width="160"/>
 
 -------------------------
+
+
+<h2>🏆 My Achievements</h2>
+
+  <img src="myacheivements/January%202026%20Top%20Reader%20in%20RxJS.png" alt="January 2026 Top Reader in RxJS" width="160"/>
+
+  --------------------
+
 
 ## 🔥 Contribution Graph
 <div align="center">
