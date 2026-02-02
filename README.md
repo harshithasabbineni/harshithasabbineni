@@ -36,7 +36,6 @@
 ------
  <a href="https://app.daily.dev/harshithasabbineni"><img src="https://api.daily.dev/devcards/v2/njW6ufbuTSIWBYFHqwSYr.png?type=default&r=exa" width="356" alt="Harshitha Sabbineni's Dev Card"/></a>
 
-
 ---
 ## 📊 GitHub Activity
 
@@ -50,16 +49,21 @@
 ## 🏆 Certifications
 
 <img src="certificates/postmancertificate.png" width="300">
------------------------------
-## 🏅 Hackathon Achievements
 
-<p align="left">
+
+-----------------------------
+
+
+   ## 🏅 Hackathon Achievements
+
+   <p align="left">
   <img src="myacheivements/hackathonsticker.png" width="110">
   <img src="myacheivements/onlinehackathonsticker2.png" width="110">
   <img src="myacheivements/hackathonsticker3.png" width="110">
-   <img src="myacheivements/hackathonsticker4.png" width="110">
-</p>
---------------------------------
+  <img src="myacheivements/hackathonsticker4.png" width="110">
+  <img src="myacheivements/January%202026%20Top%20Reader%20in%20RxJS.png" alt="January 2026 Top Reader in RxJS" width="160"/>
+
+-------------------------
 
 ## 🔥 Contribution Graph
 <div align="center">
